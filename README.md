@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-  src="https://github-readme-leetcode-stats-jqkiz1hbr.vercel.app/api/card"
+  src="https://github-readme-leetcode-stats-psi.vercel.app/"
   alt="Balaji's LeetCode Statistics"
 />
 </p>
