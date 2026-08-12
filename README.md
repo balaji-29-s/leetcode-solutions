@@ -23,13 +23,13 @@
 
 ---
 
-## 🎯 Road to 300
+## 🎯 Road to 400
 
 I'm working toward solving **300+ LeetCode problems** with a focus on interview-oriented Data Structures and Algorithms.
 
 <p align="center">
 
-### 🏆 300 Problem Goal
+### 🏆 400 Problem Goal
 
 **Keep solving. Keep improving. Keep grinding.**
 
@@ -50,32 +50,6 @@ I'm working toward solving **300+ LeetCode problems** with a focus on interview-
 </p>
 
 ---
-
-## 💻 Problem-Solving Approach
-
-```text
-Understand the problem
-        ↓
-Identify the pattern
-        ↓
-Think of brute force
-        ↓
-Optimize time & space
-        ↓
-Implement in C++
-        ↓
-Test edge cases
-        ↓
-Submit & learn
-```
-
----
-
-## 📚 Solutions
-
-All accepted solutions are automatically synchronized from LeetCode using **LeetHub-3.0**.
-
-Every new accepted solution is pushed directly to this repository.
 
 ### Current Repository
 
@@ -99,37 +73,6 @@ Every new accepted solution is pushed directly to this repository.
 | 🟨 Heap                | Priority Queue, Top-K                  |
 | 🟥 Greedy              | Local Optimization                     |
 | 🟦 Dynamic Programming | 1D, 2D, Knapsack & Subsequences        |
-
----
-
-## ⚡ Automatic Workflow
-
-```text
-                LEETCODE
-                    │
-              Solve Problem
-                    │
-                Accepted ✅
-                    │
-                    ▼
-               LEETHUB-3.0
-                    │
-             Automatic Sync
-                    │
-                    ▼
-                 GITHUB
-                    │
-             Solution Folder
-                    │
-                    ▼
-              README Dashboard
-```
-
-No manual copying of solutions.
-
-No manual Git commits.
-
-Just solve → submit → sync.
 
 ---
 
