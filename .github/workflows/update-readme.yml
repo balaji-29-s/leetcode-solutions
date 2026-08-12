@@ -17,92 +17,68 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Generate README
+        shell: bash
         run: |
-          python3 << 'PY'
+          python3 <<'PY'
           import os
           import re
 
-          ROOT = "."
-
           problems = []
 
-          for item in os.listdir(ROOT):
-              path = os.path.join(ROOT, item)
-
-              if not os.path.isdir(path):
+          for item in os.listdir("."):
+              if not os.path.isdir(item):
                   continue
 
-              # LeetHub folders normally start with the problem number
               match = re.match(r"^(\d+)-(.+)$", item)
 
               if match:
                   number = int(match.group(1))
                   name = match.group(2).replace("-", " ").title()
 
-                  problems.append({
-                      "number": number,
-                      "name": name,
-                      "folder": item
-                  })
+                  problems.append((number, name, item))
 
-          problems.sort(key=lambda x: x["number"])
+          problems.sort()
 
           total = len(problems)
-
           goal = 300
-          percentage = min(100, round((total / goal) * 100))
+
+          percentage = min(100, round(total * 100 / goal))
 
           filled = round(20 * percentage / 100)
           progress = "█" * filled + "░" * (20 - filled)
 
-          readme = f"""# 🚀 LeetCode Solutions
+          readme = "# 🚀 LeetCode Solutions\n\n"
+          readme += "My daily LeetCode practice and DSA preparation.\n\n"
 
-My daily LeetCode practice and DSA preparation.
+          readme += "## 📊 Progress\n\n"
+          readme += f"**{total} / {goal} Problems**\n\n"
+          readme += f"`{progress}` **{percentage}%**\n\n"
 
-## 📊 Progress
+          readme += "| Statistic | Count |\n"
+          readme += "|-----------|------:|\n"
+          readme += f"| 🧩 Total Solved | **{total}** |\n"
+          readme += f"| 🎯 Goal | **{goal}** |\n\n"
 
-**{total} / {goal} Problems**
+          readme += "## 📝 Problems Solved\n\n"
 
-`{progress}` **{percentage}%**
+          for number, name, folder in problems:
+              readme += f"- [{number}. {name}]({folder}/)\n"
 
-| Statistic | Count |
-|-----------|------:|
-| 🧩 Total Solved | **{total}** |
-| 🎯 Goal | **{goal}** |
+          readme += "\n## 🎯 Goal\n\n"
+          readme += "My goal is to solve **300+ LeetCode problems** while preparing for software engineering placements.\n\n"
 
-## 📝 Problems Solved
+          readme += "## 💻 Language\n\n"
+          readme += "**C++**\n\n"
 
-"""
+          readme += "## ⚡ Automatic Sync\n\n"
+          readme += "Solutions are automatically synchronized from LeetCode using **LeetHub-3.0**.\n\n"
+          readme += "README statistics are automatically updated using **GitHub Actions**.\n"
 
-          for p in problems:
-              readme += f"- [{p['number']}. {p['name']}]({p['folder']}/)\\n"
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write(readme)
 
-          readme += f"""
-
-## 🎯 Goal
-
-My current goal is to solve **{goal}+ LeetCode problems** while preparing for software engineering placements.
-
-## 💻 Language
-
-**C++**
-
-## ⚡ Automatic Sync
-
-Solutions are automatically synchronized from LeetCode using **LeetHub-3.0**.
-
-README statistics are automatically updated using **GitHub Actions**.
-
----
-
-**Total Problems Solved: {total}**
-"""
-
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(readme)
-
-          print(f"Found {total} problems")
+          print(f"Found {total} LeetCode problems")
           PY
 
       - name: Commit README
@@ -112,6 +88,9 @@ README statistics are automatically updated using **GitHub Actions**.
 
           git add README.md
 
-          git diff --cached --quiet || git commit -m "docs: update LeetCode progress"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "README is already up to date."
+          else
+            git commit -m "docs: update LeetCode progress"
+            git push
+          fi
