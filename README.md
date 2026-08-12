@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-Balaji--29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Goal-300%20Problems-2ea44f?style=for-the-badge" alt="Goal"/>
 </p>
 
 <p align="center">
