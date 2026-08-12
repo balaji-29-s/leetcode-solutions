@@ -1,9 +1,9 @@
 # 🚀 Balaji's LeetCode Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Balaji--29-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Goal-300%20Problems-success?style=for-the-badge" alt="300 Problems"/>
+  <img src="https://img.shields.io/badge/LeetCode-Balaji--29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Goal-300%20Problems-2ea44f?style=for-the-badge" alt="Goal"/>
 </p>
 
 <p align="center">
@@ -16,84 +16,96 @@
 
 <p align="center">
   <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?username=Balaji-29"
+    src="https://github-readme-leetcode-stats-jqkiz1hbr.vercel.app/api/card"
     alt="Balaji's LeetCode Statistics"
   />
 </p>
 
 ---
 
-## 🎯 Road to 400
-
-I'm working toward solving **300+ LeetCode problems** with a focus on interview-oriented Data Structures and Algorithms.
+## 🎯 Road to 300
 
 <p align="center">
 
-### 🏆 400 Problem Goal
+### 🏆 300 Problem Goal
 
-**Keep solving. Keep improving. Keep grinding.**
+**Solve. Learn. Repeat.**
+
+</p>
+
+```text id="p0o4g8"
+LeetCode
+    │
+    ├── Easy
+    ├── Medium
+    └── Hard
+          │
+          ▼
+       300+ Goal
+```
+
+---
+
+## 🧠 DSA Focus
+
+<p align="center">
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointers`
+
+`Sliding Window` · `Binary Search` · `Stack` · `Queue`
+
+`Linked List` · `Trees` · `Graphs` · `Heap`
+
+`Greedy` · `Dynamic Programming`
 
 </p>
 
 ---
 
-## 🔥 My DSA Focus
+## 📚 Solutions
+
+Every accepted LeetCode solution is automatically synchronized to this repository using **LeetHub-3.0**.
+
+### ⚡ Automatic Workflow
+
+```text
+                 LEETCODE
+                     │
+                 Solve Problem
+                     │
+                 Accepted ✅
+                     │
+                     ▼
+                LEETHUB-3.0
+                     │
+                Automatic Push
+                     │
+                     ▼
+                  GITHUB
+                     │
+               Solution Folder
+```
+
+No manual copying.
+No manual Git commits.
+
+**Solve → Submit → Accepted → Automatically pushed to GitHub.**
+
+---
+
+## 💻 Primary Language
 
 <p align="center">
-
-`Arrays` · `Strings` · `Sliding Window` · `Two Pointers` · `Hashing`
-
-`Binary Search` · `Stack` · `Queue` · `Linked List` · `Trees`
-
-`Graphs` · `Heap` · `Greedy` · `Dynamic Programming`
-
+  <img src="https://img.shields.io/badge/C%2B%2B-Primary-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ---
 
-### Current Repository
-
-[![View Solutions](https://img.shields.io/badge/View%20All%20Solutions-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/balaji-29-s/leetcode-solutions)
-
----
-
-## 🧠 Core Topics
-
-| Topic                  | Focus                                  |
-| ---------------------- | -------------------------------------- |
-| 🟦 Arrays              | Traversal, Prefix Sum, Kadane, Sorting |
-| 🟨 Strings             | Hashing, Frequency, Pattern Matching   |
-| 🟩 Sliding Window      | Fixed & Variable Window                |
-| 🟪 Two Pointers        | Pair Problems, Subarrays               |
-| 🟥 Binary Search       | Search Space & Answer                  |
-| 🟧 Stack               | Monotonic Stack, Expression Problems   |
-| 🟦 Linked List         | Reversal, Cycle, Fast & Slow Pointers  |
-| 🟩 Trees               | DFS, BFS, BST                          |
-| 🟪 Graphs              | BFS, DFS, Shortest Path                |
-| 🟨 Heap                | Priority Queue, Top-K                  |
-| 🟥 Greedy              | Local Optimization                     |
-| 🟦 Dynamic Programming | 1D, 2D, Knapsack & Subsequences        |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Algorithms-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📈 Progress Philosophy
+## 📈 Problem-Solving Philosophy
 
 > **Don't chase the number. Chase the patterns.**
 
-The goal isn't simply to increase the solved count.
-
-The goal is to recognize patterns quickly, write clean solutions, understand complexity, and become interview-ready.
+The goal is to recognize DSA patterns quickly, write clean and optimized solutions, understand time and space complexity, and become interview-ready.
 
 ---
 
@@ -101,16 +113,20 @@ The goal is to recognize patterns quickly, write clean solutions, understand com
 
 <p align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Balaji--29-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Balaji-29/)
+<a href="https://leetcode.com/u/Balaji-29/">
+  <img src="https://img.shields.io/badge/LeetCode-Balaji--29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-balaji--29--s-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/balaji-29-s)
+<a href="https://github.com/balaji-29-s">
+  <img src="https://img.shields.io/badge/GitHub-balaji--29--s-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
 <p align="center">
-  <b>🔥 One problem at a time.</b>
+  <b>🔥 One Problem at a Time.</b>
   <br/>
   <b>🎯 Road to 300.</b>
 </p>
