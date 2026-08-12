@@ -1,0 +1,117 @@
+name: Update LeetCode README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          python3 << 'PY'
+          import os
+          import re
+
+          ROOT = "."
+
+          problems = []
+
+          for item in os.listdir(ROOT):
+              path = os.path.join(ROOT, item)
+
+              if not os.path.isdir(path):
+                  continue
+
+              # LeetHub folders normally start with the problem number
+              match = re.match(r"^(\d+)-(.+)$", item)
+
+              if match:
+                  number = int(match.group(1))
+                  name = match.group(2).replace("-", " ").title()
+
+                  problems.append({
+                      "number": number,
+                      "name": name,
+                      "folder": item
+                  })
+
+          problems.sort(key=lambda x: x["number"])
+
+          total = len(problems)
+
+          goal = 300
+          percentage = min(100, round((total / goal) * 100))
+
+          filled = round(20 * percentage / 100)
+          progress = "█" * filled + "░" * (20 - filled)
+
+          readme = f"""# 🚀 LeetCode Solutions
+
+My daily LeetCode practice and DSA preparation.
+
+## 📊 Progress
+
+**{total} / {goal} Problems**
+
+`{progress}` **{percentage}%**
+
+| Statistic | Count |
+|-----------|------:|
+| 🧩 Total Solved | **{total}** |
+| 🎯 Goal | **{goal}** |
+
+## 📝 Problems Solved
+
+"""
+
+          for p in problems:
+              readme += f"- [{p['number']}. {p['name']}]({p['folder']}/)\\n"
+
+          readme += f"""
+
+## 🎯 Goal
+
+My current goal is to solve **{goal}+ LeetCode problems** while preparing for software engineering placements.
+
+## 💻 Language
+
+**C++**
+
+## ⚡ Automatic Sync
+
+Solutions are automatically synchronized from LeetCode using **LeetHub-3.0**.
+
+README statistics are automatically updated using **GitHub Actions**.
+
+---
+
+**Total Problems Solved: {total}**
+"""
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
+          print(f"Found {total} problems")
+          PY
+
+      - name: Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "docs: update LeetCode progress"
+
+          git push
