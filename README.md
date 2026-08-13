@@ -76,3 +76,15 @@
   <br/>
   <b>🎯 Road to 375.</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
+<!---LeetCode Topics End-->
