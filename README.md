@@ -83,11 +83,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [1539-kth-missing-positive-number](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
