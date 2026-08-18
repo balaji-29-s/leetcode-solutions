@@ -82,6 +82,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
@@ -118,5 +119,10 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
