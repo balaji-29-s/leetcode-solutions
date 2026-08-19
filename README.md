@@ -125,4 +125,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1251-average-selling-price](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 <!---LeetCode Topics End-->
