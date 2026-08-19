@@ -87,6 +87,7 @@
 | [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -94,11 +95,13 @@
 | [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +133,8 @@
 | ------- | ------- |
 | [1251-average-selling-price](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
