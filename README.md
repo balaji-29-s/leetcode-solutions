@@ -137,6 +137,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
