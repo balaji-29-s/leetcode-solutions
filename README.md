@@ -132,6 +132,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0610-triangle-judgement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1174-immediate-food-delivery-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
