@@ -136,6 +136,7 @@
 | [0550-game-play-analysis-iv](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0610-triangle-judgement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
+| [1164-product-price-at-a-given-date](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
