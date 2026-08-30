@@ -89,6 +89,7 @@
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
@@ -98,6 +99,7 @@
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
