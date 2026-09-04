@@ -106,6 +106,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +168,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
