@@ -108,6 +108,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Union-Find
@@ -124,11 +125,13 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -182,4 +185,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
