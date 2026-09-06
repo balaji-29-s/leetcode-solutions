@@ -124,6 +124,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -138,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
