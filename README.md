@@ -203,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
