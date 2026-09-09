@@ -207,4 +207,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
