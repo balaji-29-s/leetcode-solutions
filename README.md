@@ -142,6 +142,7 @@
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0115-distinct-subsequences](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,20 @@
 | ------- | ------- |
 | [3870-count-commas-in-range](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
