@@ -80,8 +80,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
@@ -90,22 +90,23 @@
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0134-gas-station](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -113,44 +114,46 @@
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1539-kth-missing-positive-number](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0115-distinct-subsequences](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0242-valid-anagram](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0115-distinct-subsequences](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0180-consecutive-numbers](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0610-triangle-judgement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0610-triangle-judgement/) | Easy |
@@ -164,66 +167,95 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1386-cinema-seat-allocation](https://github.com/balaji-29-s/leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3903-smallest-stable-index-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3870-count-commas-in-range](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
