@@ -94,6 +94,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/balaji-29-s/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3903-smallest-stable-index-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/balaji-29-s/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
@@ -187,14 +188,17 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/balaji-29-s/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -258,4 +262,16 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/balaji-29-s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/balaji-29-s/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
